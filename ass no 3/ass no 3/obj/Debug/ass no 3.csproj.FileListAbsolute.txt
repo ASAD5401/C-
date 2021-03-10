@@ -1,0 +1,10 @@
+E:\Programming\C #\ass no 3\ass no 3\bin\Debug\ass no 3.exe.config
+E:\Programming\C #\ass no 3\ass no 3\bin\Debug\ass no 3.exe
+E:\Programming\C #\ass no 3\ass no 3\bin\Debug\ass no 3.pdb
+E:\Programming\C #\ass no 3\ass no 3\obj\Debug\ass no 3.csprojAssemblyReference.cache
+E:\Programming\C #\ass no 3\ass no 3\obj\Debug\ass_no_3.Form1.resources
+E:\Programming\C #\ass no 3\ass no 3\obj\Debug\ass_no_3.Properties.Resources.resources
+E:\Programming\C #\ass no 3\ass no 3\obj\Debug\ass no 3.csproj.GenerateResource.cache
+E:\Programming\C #\ass no 3\ass no 3\obj\Debug\ass no 3.csproj.CoreCompileInputs.cache
+E:\Programming\C #\ass no 3\ass no 3\obj\Debug\ass no 3.exe
+E:\Programming\C #\ass no 3\ass no 3\obj\Debug\ass no 3.pdb
