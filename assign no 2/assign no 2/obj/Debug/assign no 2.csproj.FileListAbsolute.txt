@@ -1,0 +1,10 @@
+E:\Programming\C #\assign no 2\assign no 2\bin\Debug\assign no 2.exe.config
+E:\Programming\C #\assign no 2\assign no 2\bin\Debug\assign no 2.exe
+E:\Programming\C #\assign no 2\assign no 2\bin\Debug\assign no 2.pdb
+E:\Programming\C #\assign no 2\assign no 2\obj\Debug\assign no 2.csprojAssemblyReference.cache
+E:\Programming\C #\assign no 2\assign no 2\obj\Debug\assign_no_2.Form1.resources
+E:\Programming\C #\assign no 2\assign no 2\obj\Debug\assign_no_2.Properties.Resources.resources
+E:\Programming\C #\assign no 2\assign no 2\obj\Debug\assign no 2.csproj.GenerateResource.cache
+E:\Programming\C #\assign no 2\assign no 2\obj\Debug\assign no 2.csproj.CoreCompileInputs.cache
+E:\Programming\C #\assign no 2\assign no 2\obj\Debug\assign no 2.exe
+E:\Programming\C #\assign no 2\assign no 2\obj\Debug\assign no 2.pdb
